@@ -1,5 +1,5 @@
 <h3 align="center">Attention Is All You Need</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
+<img align="right" alt="Coding" width="400" src="gif.mp4">
 
 <p align="left"> <a href="https://twitter.com/kamranullahafaq" target="blank"><img src="https://img.shields.io/twitter/follow/kamranullahafaq?logo=twitter&style=for-the-badge" alt="kamranullahafaq" /></a> </p>
 
